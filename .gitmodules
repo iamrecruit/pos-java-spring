@@ -1,0 +1,12 @@
+[submodule "WangyufeiAndWangximing"]
+	path = WangyufeiAndWangximing
+	url = git@github.com:sighWang/pos-java-spring.git
+[submodule "Zhangwei"]
+	path = Zhangwei
+	url = git@github.com:lzhangwei/pos-java-spring.git
+[submodule "CuifugangAndSukai"]
+	path = CuifugangAndSukai
+	url = git@github.com:SnakeWorker/pos-java-spring.git
+[submodule "LiyanziAndXueqian"]
+	path = LiyanziAndXueqian
+	url = git@github.com:XueQian/pos-java-spring.git
