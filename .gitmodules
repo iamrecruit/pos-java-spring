@@ -10,3 +10,6 @@
 [submodule "LiyanziAndXueqian"]
 	path = LiyanziAndXueqian
 	url = git@github.com:XueQian/pos-java-spring.git
+[submodule "WanghuanAndZhangzhihui"]
+	path = WanghuanAndZhangzhihui
+	url = https://github.com/adabeauty/pos-java-spring
